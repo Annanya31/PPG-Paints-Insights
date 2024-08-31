@@ -1,1 +1,2 @@
 # PPG-Paints-Insights
+Data Science and machine learning techniques were used to address key challenges at PPG which included optimizing logistics, product design, quality improvement and enhancing customer experience. The project involved a regression task to predict an important paint property using color model inputs and a classification task to identify popular paint products based on those inputs.
